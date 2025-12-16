@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099cc&height=200&section=header&text=Hola,%20soy%20Adrián&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Estudiante%20de%20Ingeniería%20Informática%20🇪🇸&descAlignY=55&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0099cc&height=200&section=header&text=Hola,%20soy%20Adrián&fontSize=70&animation=fadeIn&fontAlignY=38&descAlignY=55&descSize=20" />
 </div>
 
 ### 👨‍💻 Sobre mí
