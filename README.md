@@ -9,7 +9,7 @@
 Mi formación se centra en la comprensión profunda de cómo funciona el software, desde la gestión de memoria en **C** hasta la programación orientada a objetos con **Java** y el análisis de datos con **Python**. Me interesa especialmente el desarrollo Backend y la arquitectura de bases de datos.
 
 - 🔭 **Actualmente cursando:** Ingeniería Informática.
-- 📚 **Enfocado en:** Algoritmia, Estructuras de Datos y Diseño de Bases de Datos.
+- 📚 **Enfocado en:** Algoritmos, Estructuras de Datos, Diseño de Bases de Datos y Desarrollo de Aplicaciones en Java.
 - 🎯 **Objetivo:** Aplicar mis conocimientos académicos en proyectos del mundo real.
 
 ---
@@ -20,7 +20,7 @@ Aquí están las tecnologías que manejo en mi día a día universitario y en pr
 
 **Lenguajes de Programación**
 <p>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=black" alt="Java" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </p>
