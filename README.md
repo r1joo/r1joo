@@ -19,8 +19,9 @@ Mi formación se centra en la comprensión profunda de cómo funciona el softwar
 Aquí están las tecnologías que manejo en mi día a día universitario y en proyectos personales:
 
 **Lenguajes de Programación**
+**Lenguajes de Programación**
 <p>
-  <img src= alt="Java" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
 </p>
