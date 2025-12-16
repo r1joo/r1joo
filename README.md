@@ -32,18 +32,3 @@ Aquí están las tecnologías que manejo en mi día a día universitario y en pr
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
-
----
-
-### 📊 Mis Estadísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true&locale=es" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
-</div>
-
----
-
-<p align="center">
-  <i>"Talk is cheap. Show me the code." - Linus Torvalds</i>
-</p>
